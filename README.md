@@ -1,10 +1,3 @@
-# client-template
+# Memory Game
 
-Serves as a template for client JavaScript applications.
-
-It uses:
-* Jade
-* Less
-* Grunt
-* JSHint
-* Node.js
+This is a memory game with a countdown timer where the user needs to match like images.
